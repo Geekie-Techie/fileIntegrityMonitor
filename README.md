@@ -21,7 +21,7 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/Geekie-Techie/OS-Project.git
+   git clone https://github.com/Geekie-Techie/fileIntegrityMonitor.git
    ```
 
 2. **Navigate to the Project Directory**
